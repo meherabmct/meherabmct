@@ -26,7 +26,7 @@
 <h3 align="center">DevOps Enginer and Solution Architect - Profesional | 5x AWS & 2x Azure Certified | MCT |</h3>
 
 <!-- GIF -->
-<img align="right" height="400" width="600" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 
