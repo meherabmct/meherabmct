@@ -15,8 +15,6 @@
 
 - 🌱 I’m currently learning **Openshift**
 
-- 👯 I’m looking to collaborate on **Health Ecommerce**
-
 - 🤝 I’m looking for help with **AWS and DevOps**
 
 - 👨‍💻 All of my projects are available at [meherab.me](meherab.me)
